@@ -1,0 +1,1 @@
+Test2 dosyamızı oluşturduk ve ilk kez bir şeyler yapıyoruz
